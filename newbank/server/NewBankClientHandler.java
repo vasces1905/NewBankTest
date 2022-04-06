@@ -76,7 +76,7 @@ public class NewBankClientHandler extends Thread {
 		out.println("2. Create account - NEWACCOUNT <Name>");
 		out.println("3. Pay person/entity - PAY <Entity> <Ammount>");
 		out.println("4. Transfer funds between accounts - MOVE <Amount> <From> <To>");
-		out.println("5. Loan request"); //added by ycanli
+		out.println("5. Loan requests"); //added by ycanli--updated
 		out.println("6. Logout");
 		out.println("7. Exit");
 		out.println("8. Change password");
