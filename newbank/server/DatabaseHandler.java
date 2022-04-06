@@ -100,7 +100,7 @@ public class DatabaseHandler {
   }
 
 public String setLoanAmount(String customerID,String loanAmount,String startType)  //Ycanli - For request and approval has written two paramters. Instead of 
-                                                                                   // new method I used.
+                                                                                   // new method I used. 
 {
   if(startType.equals("REQUEST"))
   {
